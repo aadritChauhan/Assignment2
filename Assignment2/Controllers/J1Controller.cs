@@ -33,7 +33,7 @@ namespace Assignment2.Controllers
             }
             else if (burger == 2)
             {
-                calB = 461;
+                calB = 431;
             }
             else if (burger == 3)
             {
