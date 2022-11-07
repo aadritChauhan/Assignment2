@@ -20,7 +20,7 @@ namespace Assignment2.Controllers
         /// GET../api/J2/DiceGame/12/4 There are 4 ways to get the sum 10.
         ///</example>
         /// <returns>
-        ///  Total number of ways a value of can be rolled with 2 dices
+        ///  Total number of ways a value of 10 can be rolled with 2 dices
         /// </returns>
         [HttpGet]
         [Route("api/J2/DiceGame/{m}/{n}")]
